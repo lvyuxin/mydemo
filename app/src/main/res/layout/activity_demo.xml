@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:hint="请输入id"
+        android:id="@+id/edit_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <TextView
+            android:id="@+id/permision"
+            android:text="权限"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/add"
+            android:text="增"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/delde"
+            android:text="删"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/query"
+            android:text="查"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+        <TextView
+            android:id="@+id/update"
+            android:text="改"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+      <android.support.v7.widget.RecyclerView
+          android:id="@+id/listview"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content">
+
+      </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+<RelativeLayout
+    android:visibility="gone"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TabHost
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="@color/read2">
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </TabWidget>
+    </TabHost>
+    <RelativeLayout
+        android:id="@+id/rlv_send"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/send_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="2dp"
+            android:text="发布"
+            android:textColor="@color/read2"
+            android:textSize="13sp" />
+
+        <ImageView
+            android:id="@+id/iv_senddynamic"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="18dp"
+            android:background="@drawable/food"
+            android:contentDescription="@string/app_name" />
+
+
+    </RelativeLayout>
+</RelativeLayout>
+
+
+</LinearLayout>

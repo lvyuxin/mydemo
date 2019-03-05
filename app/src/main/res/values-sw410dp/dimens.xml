@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<dimen name="activity_horizontal_margin">18.2222dp</dimen>
+	<dimen name="activity_vertical_margin">18.2222dp</dimen>
+	<dimen name="done_label_size">15.9444sp</dimen>
+	<dimen name="date_picker_component_width">307.5000dp</dimen>
+	<dimen name="selected_calendar_layout_height">176.5278dp</dimen>
+	<dimen name="date_picker_view_animator_height">307.5000dp</dimen>
+	<dimen name="month_list_item_header_height">56.9444dp</dimen>
+	<dimen name="month_day_label_text_size">11.3889sp</dimen>
+	<dimen name="day_number_select_circle_radius">18.2222dp</dimen>
+	<dimen name="month_select_circle_radius">51.2500dp</dimen>
+	<dimen name="selected_date_year_size">34.1667dp</dimen>
+	<dimen name="selected_date_day_size">85.4167dp</dimen>
+	<dimen name="selected_date_month_size">34.1667dp</dimen>
+	<dimen name="month_label_size">18.2222sp</dimen>
+	<dimen name="day_number_size">18.2222sp</dimen>
+	<dimen name="year_label_height">72.8889dp</dimen>
+	<dimen name="year_label_text_size">25.0556dp</dimen>
+	<dimen name="margin_micro">6.8333dp</dimen>
+</resources>

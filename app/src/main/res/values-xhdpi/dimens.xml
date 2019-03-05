@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_40_size">20sp</dimen>
+    <dimen name="text_size_34_size">17sp</dimen>
+    <dimen name="text_size_36_size">18sp</dimen>
+    <dimen name="text_size_32_size">16sp</dimen>
+    <dimen name="text_size_30_size">15sp</dimen>
+    <dimen name="text_size_28_size">14sp</dimen>
+    <dimen name="text_size_26_size">13sp</dimen>
+    <dimen name="text_size_24_size">12sp</dimen>
+
+    <dimen name="px_750">750px</dimen>
+    <dimen name="px_91">90px</dimen>
+
+    <dimen name="px_31">31px</dimen>
+    <dimen name="px_30">30px</dimen>
+    <dimen name="px_123">123px</dimen>
+    <dimen name="px_29">29px</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_7">7dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_9">9dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_17">14dp</dimen>
+    <dimen name="dp_19">19dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_21">21dp</dimen>
+    <dimen name="dp_22">22dp</dimen>
+    <dimen name="dp_38">38dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_43">43dp</dimen>
+    <dimen name="dp_45">45dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_135">135dp</dimen>
+    <dimen name="dp_164">164dp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+
+    <dimen name="hsize_1">.50dp</dimen>
+    <dimen name="hsize_2">1.00dp</dimen>
+    <dimen name="hsize_6">3.00dp</dimen>
+    <dimen name="hsize_10">5.00dp</dimen>
+    <dimen name="hsize_15">7.50dp</dimen>
+    <dimen name="hsize_16">8.00dp</dimen>
+    <dimen name="hsize_18">9.00dp</dimen>
+    <dimen name="hsize_20">10.00dp</dimen>
+    <dimen name="hsize_28">14.00dp</dimen>
+    <dimen name="hsize_30">15.00dp</dimen>
+    <dimen name="hsize_32">16.00dp</dimen>
+    <dimen name="hsize_34">17.00dp</dimen>
+    <dimen name="hsize_40">20.00dp</dimen>
+    <dimen name="hsize_45">45.00dp</dimen>
+    <dimen name="hsize_60">30.00dp</dimen>
+    <dimen name="hsize_80">40.00dp</dimen>
+    <dimen name="hsize_88">44.00dp</dimen>
+    <dimen name="hsize_90">45.00dp</dimen>
+    <dimen name="hsize_96">48.00dp</dimen>
+    <dimen name="hsize_100">50.00dp</dimen>
+    <dimen name="hsize_110">55.00dp</dimen>
+    <dimen name="hsize_120">60.00dp</dimen>
+    <dimen name="hsize_150">75.00dp</dimen>
+    <dimen name="hsize_160">80.00dp</dimen>
+    <dimen name="hsize_180">90.00dp</dimen>
+    <dimen name="hsize_205">102.50dp</dimen>
+    <dimen name="hsize_300">200.00dp</dimen>
+    <dimen name="hsize_350">150.00dp</dimen>
+    <dimen name="hsize_356">178.00dp</dimen>
+    <dimen name="hsize_620">310.00dp</dimen>
+    <dimen name="hsize_622">311.00dp</dimen>
+    <dimen name="hsize_700">350.00dp</dimen>
+
+    <dimen name="wsize_10">5.00dp</dimen>
+    <dimen name="wsize_16">8.00dp</dimen>
+    <dimen name="wsize_20">10.00dp</dimen>
+    <dimen name="wsize_40">40.00dp</dimen>
+    <dimen name="wsize_32">16.00dp</dimen>
+    <dimen name="wsize_50">25.00dp</dimen>
+    <dimen name="wsize_130">65.00dp</dimen>
+    <dimen name="wsize_150">75.00dp</dimen>
+
+
+</resources>
